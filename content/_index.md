@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        BeBetter
       image:
         filename: welcome.jpg
       text: |
         <br>
+        A short description of bebetter app.
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:
