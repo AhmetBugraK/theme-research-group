@@ -10,7 +10,7 @@ sections:
       title: |
         BeBetter
       image:
-        filename: welcome.jpg
+        filename: asam_logo.jpg
       text: |
         <br>
         A short description of bebetter app.
